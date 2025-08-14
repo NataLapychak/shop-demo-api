@@ -1,0 +1,122 @@
+[
+  {
+    "slug": "beauty",
+    "name": "Beauty",
+    "id": "1"
+  },
+  {
+    "slug": "fragrances",
+    "name": "Fragrances",
+    "id": "2"
+  },
+  {
+    "slug": "furniture",
+    "name": "Furniture",
+    "id": "3"
+  },
+  {
+    "slug": "groceries",
+    "name": "Groceries",
+    "id": "4"
+  },
+  {
+    "slug": "home-decoration",
+    "name": "Home Decoration",
+    "id": "5"
+  },
+  {
+    "slug": "kitchen-accessories",
+    "name": "Kitchen Accessories",
+    "id": "6"
+  },
+  {
+    "slug": "laptops",
+    "name": "Laptops",
+    "id": "7"
+  },
+  {
+    "slug": "mens-shirts",
+    "name": "Mens Shirts",
+    "id": "8"
+  },
+  {
+    "slug": "mens-shoes",
+    "name": "Mens Shoes",
+    "id": "9"
+  },
+  {
+    "slug": "mens-watches",
+    "name": "Mens Watches",
+    "id": "10"
+  },
+  {
+    "slug": "mobile-accessories",
+    "name": "Mobile Accessories",
+    "id": "11"
+  },
+  {
+    "slug": "motorcycle",
+    "name": "Motorcycle",
+    "id": "12"
+  },
+  {
+    "slug": "skin-care",
+    "name": "Skin Care",
+    "id": "13"
+  },
+  {
+    "slug": "smartphones",
+    "name": "Smartphones",
+    "id": "14"
+  },
+  {
+    "slug": "sports-accessories",
+    "name": "Sports Accessories",
+    "id": "15"
+  },
+  {
+    "slug": "sunglasses",
+    "name": "Sunglasses",
+    "id": "16"
+  },
+  {
+    "slug": "tablets",
+    "name": "Tablets",
+    "id": "17"
+  },
+  {
+    "slug": "tops",
+    "name": "Tops",
+    "id": "18"
+  },
+  {
+    "slug": "vehicle",
+    "name": "Vehicle",
+    "id": "19"
+  },
+  {
+    "slug": "womens-bags",
+    "name": "Womens Bags",
+    "id": "20"
+  },
+  {
+    "slug": "womens-dresses",
+    "name": "Womens Dresses",
+    "id": "21"
+  },
+  {
+    "slug": "womens-jewellery",
+    "name": "Womens Jewellery",
+    "id": "22"
+  },
+  {
+    "slug": "womens-shoes",
+    "name": "Womens Shoes",
+    "id": "23"
+  },
+  {
+    "slug": "womens-watches",
+    "name": "Womens Watches",
+    "id": "24"
+  }
+]

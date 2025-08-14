@@ -1,0 +1,75 @@
+[2025-08-13T09:01:19.323Z] getProducts params: {}
+[2025-08-13T09:01:19.328Z] getProducts filter: {}
+[2025-08-13T09:01:19.473Z] getProducts result count: 50/194
+[2025-08-13T09:03:43.059Z] getProducts params: {}
+[2025-08-13T09:03:43.061Z] Final filter: {}
+[2025-08-13T09:03:43.198Z] Found 50 items (total: 194)
+[2025-08-13T09:03:44.043Z] getProducts params: {}
+[2025-08-13T09:03:44.044Z] Final filter: {}
+[2025-08-13T09:03:44.173Z] Found 50 items (total: 194)
+[2025-08-13T09:04:14.564Z] getProducts params: {}
+[2025-08-13T09:04:14.565Z] Final filter: {}
+[2025-08-13T09:04:14.680Z] Found 50 items (total: 194)
+[2025-08-13T09:04:41.547Z] getProducts params: {}
+[2025-08-13T09:04:41.548Z] Final filter: {}
+[2025-08-13T09:04:41.815Z] Found 50 items (total: 194)
+[2025-08-13T09:04:44.525Z] getProducts params: {}
+[2025-08-13T09:04:44.526Z] Final filter: {}
+[2025-08-13T09:04:44.644Z] Found 50 items (total: 194)
+[2025-08-13T09:04:47.058Z] getProducts params: {"category":"fragrances"}
+[2025-08-13T09:04:47.097Z] Loaded category cache: [["fragrances",2],["furniture",3],["groceries",4],["skin-care",13],["smartphones",14],["tops",18],["beauty",1],["mobile-accessories",11],["sports-accessories",15],["womens-dresses",21],["womens-jewellery",22],["kitchen-accessories",6],["mens-shirts",8],["mens-shoes",9],["sunglasses",16],["vehicle",19],["womens-bags",20],["womens-watches",24],["home-decoration",5],["laptops",7],["mens-watches",10],["motorcycle",12],["tablets",17],["womens-shoes",23]]
+[2025-08-13T09:04:47.098Z] Category param is slug "fragrances" → mapped to id: 2
+[2025-08-13T09:04:47.099Z] Final filter: {"category":2}
+[2025-08-13T09:04:47.142Z] Found 5 items (total: 5)
+[2025-08-13T09:04:48.207Z] getProducts params: {"category":"furniture"}
+[2025-08-13T09:04:48.209Z] Category param is slug "furniture" → mapped to id: 3
+[2025-08-13T09:04:48.210Z] Final filter: {"category":3}
+[2025-08-13T09:04:48.255Z] Found 5 items (total: 5)
+[2025-08-13T09:04:48.796Z] getProducts params: {"category":"groceries"}
+[2025-08-13T09:04:48.797Z] Category param is slug "groceries" → mapped to id: 4
+[2025-08-13T09:04:48.798Z] Final filter: {"category":4}
+[2025-08-13T09:04:48.875Z] Found 27 items (total: 27)
+[2025-08-13T09:04:50.140Z] getProducts params: {"category":"skin-care"}
+[2025-08-13T09:04:50.141Z] Category param is slug "skin-care" → mapped to id: 13
+[2025-08-13T09:04:50.142Z] Final filter: {"category":13}
+[2025-08-13T09:04:50.184Z] Found 3 items (total: 3)
+[2025-08-13T09:04:50.708Z] getProducts params: {"category":"smartphones"}
+[2025-08-13T09:04:50.710Z] Category param is slug "smartphones" → mapped to id: 14
+[2025-08-13T09:04:50.713Z] Final filter: {"category":14}
+[2025-08-13T09:04:50.791Z] Found 16 items (total: 16)
+[2025-08-13T09:04:51.656Z] getProducts params: {"category":"tops"}
+[2025-08-13T09:04:51.657Z] Category param is slug "tops" → mapped to id: 18
+[2025-08-13T09:04:51.660Z] Final filter: {"category":18}
+[2025-08-13T09:04:51.702Z] Found 5 items (total: 5)
+[2025-08-13T09:04:53.204Z] getProducts params: {"category":"beauty"}
+[2025-08-13T09:04:53.208Z] Category param is slug "beauty" → mapped to id: 1
+[2025-08-13T09:04:53.210Z] Final filter: {"category":1}
+[2025-08-13T09:04:53.262Z] Found 5 items (total: 5)
+[2025-08-13T09:04:54.767Z] getProducts params: {"category":"mobile-accessories"}
+[2025-08-13T09:04:54.768Z] Category param is slug "mobile-accessories" → mapped to id: 11
+[2025-08-13T09:04:54.769Z] Final filter: {"category":11}
+[2025-08-13T09:04:54.815Z] Found 14 items (total: 14)
+[2025-08-13T09:04:55.846Z] getProducts params: {"category":"tops"}
+[2025-08-13T09:04:55.848Z] Category param is slug "tops" → mapped to id: 18
+[2025-08-13T09:04:55.850Z] Final filter: {"category":18}
+[2025-08-13T09:04:55.894Z] Found 5 items (total: 5)
+[2025-08-13T09:05:00.702Z] getProducts params: {"category":"mobile-accessories"}
+[2025-08-13T09:05:00.704Z] Category param is slug "mobile-accessories" → mapped to id: 11
+[2025-08-13T09:05:00.706Z] Final filter: {"category":11}
+[2025-08-13T09:05:00.748Z] Found 14 items (total: 14)
+[2025-08-13T09:05:01.393Z] getProducts params: {"category":"sports-accessories"}
+[2025-08-13T09:05:01.394Z] Category param is slug "sports-accessories" → mapped to id: 15
+[2025-08-13T09:05:01.397Z] Final filter: {"category":15}
+[2025-08-13T09:05:01.454Z] Found 17 items (total: 17)
+[2025-08-13T09:05:02.520Z] getProducts params: {"category":"womens-dresses"}
+[2025-08-13T09:05:02.521Z] Category param is slug "womens-dresses" → mapped to id: 21
+[2025-08-13T09:05:02.521Z] Final filter: {"category":21}
+[2025-08-13T09:05:02.564Z] Found 5 items (total: 5)
+[2025-08-13T09:05:03.894Z] getProducts params: {"category":"womens-jewellery"}
+[2025-08-13T09:05:03.896Z] Category param is slug "womens-jewellery" → mapped to id: 22
+[2025-08-13T09:05:03.898Z] Final filter: {"category":22}
+[2025-08-13T09:05:03.942Z] Found 3 items (total: 3)
+[2025-08-13T09:05:04.538Z] getProducts params: {"category":"kitchen-accessories"}
+[2025-08-13T09:05:04.540Z] Category param is slug "kitchen-accessories" → mapped to id: 6
+[2025-08-13T09:05:04.540Z] Final filter: {"category":6}
+[2025-08-13T09:05:04.621Z] Found 30 items (total: 30)
